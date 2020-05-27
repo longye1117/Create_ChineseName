@@ -4,7 +4,7 @@
 import random
 import numpy as np
 
-
+# 1213
 name_list=[]
 for i in range(0,1000):
     first_name_list = ['赵', '钱', '孙', '李', '周', '吴', '郑', '王', '冯',
